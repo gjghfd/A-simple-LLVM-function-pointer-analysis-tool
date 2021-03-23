@@ -13,7 +13,6 @@ set(LLVM_LINK_COMPONENTS
   )
 
 message(STATUS "LLVM LIBS : ${LLVM_LINK_COMPONENTS}")
-# Support plugins.
 
 add_executable(llvmassignment
   LLVMAssignment.cpp
