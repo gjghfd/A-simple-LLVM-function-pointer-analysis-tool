@@ -2,4 +2,6 @@
 
 This is my homework of a course in UCAS.
 
-The LLVMAssignment.cpp manages to print all functions it might call for all call instructions in a C program. It is based on LLVM IR.
+The LLVMAssignment.cpp manages to print all functions it might call for all call instructions in a C program.
+
+The program is written in C++, and implements its function as a LLVM pass.
