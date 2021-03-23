@@ -1,4 +1,4 @@
-# A-simple-LLVM-function-pointer-analysis-tool
+# A-simple-function-pointer-analysis-tool
 
 This is my homework of a course in UCAS.
 
